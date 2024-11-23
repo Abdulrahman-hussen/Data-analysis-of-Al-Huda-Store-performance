@@ -16,7 +16,7 @@ The “Al Huda Store Data Analysis” project aims to provide a comprehensive an
 
 ## Dataset used
 
-- <a harf="https://github.com/Abdulrahman-hussen/Data-analysis-of-Al-Huda-Store-performance/blob/main/(dataset)Al%20Huda.csv"> Dataset </a>
+- <a harf="https://github.com/Abdulrahman-hussen/Data-analysis-of-Al-Huda-Store-performance/blob/main/(dataset)Al%20Huda.csv">Dataset</a>
 
 ## Dashboard
 
