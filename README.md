@@ -23,7 +23,9 @@ The “Al Huda Store Data Analysis” project aims to provide a comprehensive an
 - Detailed notes for each chart (e.g. total sales, best-selling products).
 - Practical suggestions and solutions to improve store performance based on the data.
   
-📄 **[View the full report format PDF]([reports/Hda-Store-Analysis-Report.pdf](https://github.com/Abdulrahman-hussen/Data-analysis-of-Al-Huda-Store-performance/blob/main/(%20%20Report%20%20)Al%20Huda%20Store%20Performance%20Data%20Analysis.pdf)**  
+📄 **[View the full report format PDF]
+
+([reports/Hda-Store-Analysis-Report.pdf](https://github.com/Abdulrahman-hussen/Data-analysis-of-Al-Huda-Store-performance/blob/main/(%20%20Report%20%20)Al%20Huda%20Store%20Performance%20Data%20Analysis.pdf)**  
 
 
 ## Interactive Dashboard
