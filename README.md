@@ -25,7 +25,7 @@ The “Al Huda Store Data Analysis” project aims to provide a comprehensive an
   
 📄 **[View the full report format PDF]
 
-([reports/Hda-Store-Analysis-Report.pdf](https://github.com/Abdulrahman-hussen/Data-analysis-of-Al-Huda-Store-performance/blob/main/(%20%20Report%20%20)Al%20Huda%20Store%20Performance%20Data%20Analysis.pdf)**  
+[reports/Hda-Store-Analysis-Report.pdf](https://github.com/Abdulrahman-hussen/Data-analysis-of-Al-Huda-Store-performance/blob/main/(%20%20Report%20%20)Al%20Huda%20Store%20Performance%20Data%20Analysis.pdf)  
 
 
 ## Interactive Dashboard
@@ -33,9 +33,7 @@ We created a dashboard that displays store performance interactively.
 ### Key Points:
 - Total sales, ratings, return percentage.
 - Charts showing best-selling products and analysis of different categories.
-
-## Dashboard
-
+- 
 ![Dashboard](Dashboard.png)
 
 
