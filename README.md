@@ -1,12 +1,14 @@
-# تحليل بيانات متجر الهدى - 2023
+# Al Huda Store Performance Data Analysis  
 
-## مقدمة
-مشروع تحليل أداء متجر الهدى خلال شهر أغسطس 2023. الهدف من التحليل هو تقديم رؤى حول المبيعات، الأرباح، والمنتجات الأكثر مبيعًا.
+## Project Objective
+The “Al Huda Store Data Analysis” project aims to provide a comprehensive analysis of sales performance during 2023, with a focus on the month of August. The project is based on real data including sales details, ratings, products, and categories. This project is designed to provide insights that help make strategic decisions to improve performance, such as identifying best-selling products, understanding customer behavior, and analyzing sales-related ratings.
 
-## محتويات المشروع
-- **البيانات:** [Hda.xlsx](data/Hda.xlsx) يحتوي على بيانات المبيعات والمنتجات.
-- **اللوحة التفاعلية:** لوحة تحليل الأداء الشهري (تم إنشاؤها باستخدام Excel أو Power BI).
-- **الأدوات المستخدمة:** Excel لتحليل البيانات، .
+
+## During this project, we can answer several key questions:
+1- What are the most profitable and best-selling products?
+2- How do customer reviews affect sales?
+3- What is the percentage of returned products and how does it affect overall performance?
+4- What are the time patterns of sales during the year?
 
 ## النتائج الرئيسية
 - **إجمالي المبيعات:** 7,067,115 جنيه.
