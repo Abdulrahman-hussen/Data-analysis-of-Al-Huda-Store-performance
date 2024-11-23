@@ -6,8 +6,11 @@ The “Al Huda Store Data Analysis” project aims to provide a comprehensive an
 
 ## During this project, we can answer several key questions:
 1- What are the most profitable and best-selling products?
+
 2- How do customer reviews affect sales?
+
 3- What is the percentage of returned products and how does it affect overall performance?
+
 4- What are the time patterns of sales during the year?
 
 ## النتائج الرئيسية
