@@ -20,7 +20,7 @@ The “Al Huda Store Data Analysis” project aims to provide a comprehensive an
 
 ## المخططات
 ### 1. لوحة تحليل الأداء
-![Dashboard](visualizations/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### 2. المبيعات حسب الفئات
 - الهواتف الذكية: الأعلى مبيعًا.
